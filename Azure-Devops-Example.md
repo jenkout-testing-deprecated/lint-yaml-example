@@ -1,6 +1,6 @@
 # NPM task
 
-## Azure DevOps input
+## Azure DevOps Input
 
 ```yaml
 # npm task
